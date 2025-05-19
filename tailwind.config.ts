@@ -52,6 +52,12 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+        // Custom colors
+        'brand-charcoal-gray': '#403E43',
+        'brand-bright-blue': '#1EAEDB',
+        'brand-light-gray': '#F6F6F7',
+        'brand-medium-gray': '#8A898C',
+        'brand-dark-charcoal': '#221F26',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
